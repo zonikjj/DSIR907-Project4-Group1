@@ -26,13 +26,13 @@ The data was scraped using BeautifulSoup and the requests library to build a raw
 
 ### Important Exploratory Data Analysis:
 
-![Image](./visuals/1.png)
+![Image](./Visuals/1.png)
 
-![Image](./visuals/2.png)
+![Image](./Visuals/2.png)
 
-![Image](./visuals/4.png)
+![Image](./Visuals/4.png)
 
-![Image](./visuals/9.png)
+![Image](./Visuals/9.png)
 
 ### Modeling 
 We looped through different vectorizors and classifiers to find the highest performing models to iterate further on. We found Multinomial Naive Bayes, Logistic Regression, and ExtraTressClassifier were the most competitive classifier models.  
@@ -51,8 +51,7 @@ Ultimately after utilizing GridSearch, it was found that Logistic Regression and
 
 Confusion Matrix
 
-<img src="./visuals/8.png" alt="JJ is cool">
-![Image](./visuals/8.png)
+![Image](./Visuals/8.png)
 
 
 ### Contents:
