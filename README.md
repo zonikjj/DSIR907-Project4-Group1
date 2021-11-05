@@ -51,7 +51,7 @@ Ultimately after utilizing GridSearch, it was found that Logistic Regression and
 
 Confusion Matrix
 
-<img src>./visuals/8.png</img>
+<img src="./visuals/8.png" alt="JJ is cool"
 ![Image](./visuals/8.png)
 
 
